@@ -15,7 +15,7 @@
 ## Arrays & Hashing (15)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Two Sum | Easy | [Link](https://leetcode.com/problemset/all/?search=Two%20Sum) | ⬜ | |
+| 1 | Two Sum | Easy | [Link](https://leetcode.com/problemset/all/?search=Two%20Sum) | ✅ | [Submission Link](https://leetcode.com/problems/two-sum/submissions/2104079564) |
 | 2 | Contains Duplicate | Easy | [Link](https://leetcode.com/problemset/all/?search=Contains%20Duplicate) | ⬜ | |
 | 3 | Valid Anagram | Easy | [Link](https://leetcode.com/problemset/all/?search=Valid%20Anagram) | ⬜ | |
 | 4 | Group Anagrams | Medium | [Link](https://leetcode.com/problemset/all/?search=Group%20Anagrams) | ⬜ | |

@@ -3,7 +3,7 @@
 150 problems, pattern by pattern. Progress bar below updates automatically from this file — just flip `✅` to `✅` in the Status column when you solve one, commit, and push.
 
 <!-- PROGRESS-START -->
-**Progress: 1 / 150 (1%)**
+**Progress: 2 / 150 (1%)**
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 <!-- PROGRESS-END -->

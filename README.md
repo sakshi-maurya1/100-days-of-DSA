@@ -17,7 +17,7 @@
 |---|---------|------------|----------|--------|-------|
 | 1 | Two Sum | Easy | [Link](https://leetcode.com/problemset/all/?search=Two%20Sum) | ✅ | [Submission Link](https://leetcode.com/problems/two-sum/submissions/2104079564) |
 | 2 | Contains Duplicate | Easy | [Link](https://leetcode.com/problems/contains-duplicate/description/?search=Contains%20Duplicate) | ✅ | [Submission Link](https://leetcode.com/problems/contains-duplicate/submissions/2138765572)|
-| 3 | Valid Anagram | Easy | [Link](https://leetcode.com/problemset/all/?search=Valid%20Anagram) | ⬜ | |
+| 3 | Valid Anagram | Easy | [Link](https://leetcode.com/problemset/all/?search=Valid%20Anagram) | ✅ | [Submission Link](https://leetcode.com/problems/valid-anagram/submissions/2138835106)|
 | 4 | Group Anagrams | Medium | [Link](https://leetcode.com/problemset/all/?search=Group%20Anagrams) | ⬜ | |
 | 5 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problemset/all/?search=Top%20K%20Frequent%20Elements) | ⬜ | |
 | 6 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problemset/all/?search=Product%20of%20Array%20Except%20Self) | ⬜ | |

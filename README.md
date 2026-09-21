@@ -25,7 +25,7 @@
 | 8 | Encode and Decode Strings | Medium | [Link](https://leetcode.com/problemset/all/?search=Encode%20and%20Decode%20Strings) | ⬜ | |
 | 9 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problemset/all/?search=Longest%20Consecutive%20Sequence) | ⬜ | |
 | 10 | Subarray Sum Equals K | Medium | [Link](https://leetcode.com/problemset/all/?search=Subarray%20Sum%20Equals%20K) | ⬜ | |
-| 11 | Majority Element | Easy | [Link](https://leetcode.com/problemset/all/?search=Majority%20Element) | ✅ | [Submission Link](https://leetcode.com/problems/majority-element/submissions/2147814503) |
+| 11 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/description/?search=Majority%20Element) | ✅ | [Submission Link](https://leetcode.com/problems/majority-element/submissions/2147814503) |
 | 12 | Sort Colors | Medium | [Link](https://leetcode.com/problemset/all/?search=Sort%20Colors) | ⬜ | |
 | 13 | Set Matrix Zeroes | Medium | [Link](https://leetcode.com/problemset/all/?search=Set%20Matrix%20Zeroes) | ⬜ | |
 | 14 | Rotate Array | Medium | [Link](https://leetcode.com/problemset/all/?search=Rotate%20Array) | ⬜ | |

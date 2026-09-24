@@ -40,8 +40,8 @@
 | 4 | Container With Most Water | Medium | [Link](https://leetcode.com/problemset/all/?search=Container%20With%20Most%20Water) | ⬜ | |
 | 5 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problemset/all/?search=Trapping%20Rain%20Water) | ⬜ | |
 | 6 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?search=Remove%20Duplicates%20from%20Sorted%20Array) | ✅ | [Submission Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2152160781) |
-| 7 | Move Zeroes | Easy | [Link](https://leetcode.com/problemset/all/?search=Move%20Zeroes) | ⬜ | |
-| 8 | Merge Sorted Array | Easy | [Link](https://leetcode.com/problemset/all/?search=Merge%20Sorted%20Array) | ⬜ | |
+| 7 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/description/?search=Move%20Zeroes) | ✅ | [Submission Link](https://leetcode.com/problems/move-zeroes/submissions/2152167134) |
+| 8 | Merge Sorted Array | Easy | [Link](https://leetcode.com/problems/merge-sorted-array/description/?search=Merge%20Sorted%20Array) | ✅ | [Submission Link](https://leetcode.com/problems/merge-sorted-array/submissions/2152181428) |
 
 ## Sliding Window (8)
 | # | Problem | Difficulty | LeetCode | Status | Notes |

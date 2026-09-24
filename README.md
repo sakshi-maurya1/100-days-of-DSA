@@ -34,7 +34,7 @@
 ## Two Pointers (8)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Valid Palindrome | Easy | [Link](https://leetcode.com/problemset/all/?search=Valid%20Palindrome) | ✅ | [Submission Link](https://leetcode.com/problems/valid-palindrome/submissions/2148467972) |
+| 1 | Valid Palindrome | Easy | [Link](https://leetcode.com/problemset/all/?search=Valid%20Palindrome) | ✅ | [Submission Link](https://leetcode.com/problems/valid-palindrome/submissions/2152114163) |
 | 2 | Two Sum II - Input Array Is Sorted | Medium | [Link](https://leetcode.com/problemset/all/?search=Two%20Sum%20II) | ⬜ | |
 | 3 | 3Sum | Medium | [Link](https://leetcode.com/problemset/all/?search=3Sum) | ⬜ | |
 | 4 | Container With Most Water | Medium | [Link](https://leetcode.com/problemset/all/?search=Container%20With%20Most%20Water) | ⬜ | |

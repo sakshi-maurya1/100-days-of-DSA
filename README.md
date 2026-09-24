@@ -39,7 +39,7 @@
 | 3 | 3Sum | Medium | [Link](https://leetcode.com/problemset/all/?search=3Sum) | ⬜ | |
 | 4 | Container With Most Water | Medium | [Link](https://leetcode.com/problemset/all/?search=Container%20With%20Most%20Water) | ⬜ | |
 | 5 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problemset/all/?search=Trapping%20Rain%20Water) | ⬜ | |
-| 6 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problemset/all/?search=Remove%20Duplicates%20from%20Sorted%20Array) | ⬜ | |
+| 6 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?search=Remove%20Duplicates%20from%20Sorted%20Array) | ✅ | [Submission Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2152160781) |
 | 7 | Move Zeroes | Easy | [Link](https://leetcode.com/problemset/all/?search=Move%20Zeroes) | ⬜ | |
 | 8 | Merge Sorted Array | Easy | [Link](https://leetcode.com/problemset/all/?search=Merge%20Sorted%20Array) | ⬜ | |
 

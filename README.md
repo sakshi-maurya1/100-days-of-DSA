@@ -46,7 +46,7 @@
 ## Sliding Window (8)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Best Time to Buy and Sell Stock | Easy | [Link](https://leetcode.com/problemset/all/?search=Best%20Time%20to%20Buy%20and%20Sell%20Stock) | ⬜ | |
+| 1 | Best Time to Buy and Sell Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2152749677/?search=Best%20Time%20to%20Buy%20and%20Sell%20Stock) | ✅ | [Submission Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2152749677)|
 | 2 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problemset/all/?search=Longest%20Substring%20Without%20Repeating%20Characters) | ⬜ | |
 | 3 | Longest Repeating Character Replacement | Medium | [Link](https://leetcode.com/problemset/all/?search=Longest%20Repeating%20Character%20Replacement) | ⬜ | |
 | 4 | Permutation in String | Medium | [Link](https://leetcode.com/problemset/all/?search=Permutation%20in%20String) | ⬜ | |
@@ -58,7 +58,7 @@
 ## Stack (8)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Valid Parentheses | Easy | [Link](https://leetcode.com/problemset/all/?search=Valid%20Parentheses) | ⬜ | |
+| 1 | Valid Parentheses | Easy | [Link](https://leetcode.com/problems/valid-parentheses/description/?search=Best%20Time%20to%20Buy%20and%20Sell%20Stock) | ✅ | [Submission Link](https://leetcode.com/problems/valid-parentheses/submissions/2152758216)|
 | 2 | Min Stack | Medium | [Link](https://leetcode.com/problemset/all/?search=Min%20Stack) | ⬜ | |
 | 3 | Evaluate Reverse Polish Notation | Medium | [Link](https://leetcode.com/problemset/all/?search=Evaluate%20Reverse%20Polish%20Notation) | ⬜ | |
 | 4 | Generate Parentheses | Medium | [Link](https://leetcode.com/problemset/all/?search=Generate%20Parentheses) | ⬜ | |

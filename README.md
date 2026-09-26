@@ -65,12 +65,12 @@
 | 5 | Daily Temperatures | Medium | [Link](https://leetcode.com/problemset/all/?search=Daily%20Temperatures) | ⬜ | |
 | 6 | Car Fleet | Medium | [Link](https://leetcode.com/problemset/all/?search=Car%20Fleet) | ⬜ | |
 | 7 | Largest Rectangle in Histogram | Hard | [Link](https://leetcode.com/problemset/all/?search=Largest%20Rectangle%20in%20Histogram) | ⬜ | |
-| 8 | Next Greater Element I | Easy | [Link](https://leetcode.com/problemset/all/?search=Next%20Greater%20Element%20I) | ⬜ | |
+| 8 | Next Greater Element I | Easy | [Link](https://leetcode.com/problems/next-greater-element-i/description/?search=Binary%20Search) | ✅ | [Submission Link](https://leetcode.com/problems/next-greater-element-i/submissions/2153754938) |
 
 ## Binary Search (8)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Binary Search | Easy | [Link](https://leetcode.com/problemset/all/?search=Binary%20Search) | ⬜ | |
+| 1 | Binary Search | Easy | [Link](https://leetcode.com/problems/binary-search/description/?search=Binary%20Searchh) | ✅ | [Submission Link](https://leetcode.com/problems/binary-search/submissions/2153649530)|
 | 2 | Search in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problemset/all/?search=Search%20in%20Rotated%20Sorted%20Array) | ⬜ | |
 | 3 | Find Minimum in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problemset/all/?search=Find%20Minimum%20in%20Rotated%20Sorted%20Array) | ⬜ | |
 | 4 | Search a 2D Matrix | Medium | [Link](https://leetcode.com/problemset/all/?search=Search%20a%202D%20Matrix) | ⬜ | |
@@ -82,8 +82,8 @@
 ## Linked List (10)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Reverse Linked List | Easy | [Link](https://leetcode.com/problemset/all/?search=Reverse%20Linked%20List) | ⬜ | |
-| 2 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problemset/all/?search=Merge%20Two%20Sorted%20Lists) | ⬜ | |
+| 1 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/description/?search=Binary%20Search) | ✅ | [Submission Link](https://leetcode.com/problems/reverse-linked-list/submissions/2153771111)|
+| 2 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problemset/all/?search=Merge%20Two%20Sorted%20Lists) | ✅ | [Submission Link](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2153807433) |
 | 3 | Reorder List | Medium | [Link](https://leetcode.com/problemset/all/?search=Reorder%20List) | ⬜ | |
 | 4 | Remove Nth Node From End of List | Medium | [Link](https://leetcode.com/problemset/all/?search=Remove%20Nth%20Node%20From%20End%20of%20List) | ⬜ | |
 | 5 | Copy List with Random Pointer | Medium | [Link](https://leetcode.com/problemset/all/?search=Copy%20List%20with%20Random%20Pointer) | ⬜ | |

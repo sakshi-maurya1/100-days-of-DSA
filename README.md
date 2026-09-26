@@ -3,9 +3,9 @@
 150 problems, pattern by pattern. Progress bar below updates automatically from this file — just flip `✅` to `✅` in the Status column when you solve one, commit, and push.
 
 <!-- PROGRESS-START -->
-**Progress: 10 / 150 (7%)**
+**Progress: 14 / 150 (9%)**
 
-🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 <!-- PROGRESS-END -->
 
 **How to log a solve:** change the Status cell from `⬜` to `✅`, and optionally add a link to your solution file in the Notes column. Push the change — the Action below rewrites the progress bar for you.

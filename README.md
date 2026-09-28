@@ -91,7 +91,7 @@
 | 7 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/description/?search=Binary%20Search) | ✅ | [Submission Link](https://leetcode.com/problems/linked-list-cycle/submissions/2155033835) |
 | 8 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problemset/all/?search=Find%20the%20Duplicate%20Number) | ⬜ | |
 | 9 | LRU Cache | Medium | [Link](https://leetcode.com/problemset/all/?search=LRU%20Cache) | ⬜ | |
-| 10 | Merge k Sorted Lists | Hard | [Link](https://leetcode.com/problemset/all/?search=Merge%20k%20Sorted%20Lists) | ⬜ | |
+| 10 | Merge k Sorted Lists | Hard | [Link](https://leetcode.com/problemset/all/?search=Merge%20k%20Sorted%20Lists) | ⬜ |  |
 
 ## Trees (15)
 | # | Problem | Difficulty | LeetCode | Status | Notes |

@@ -97,7 +97,7 @@
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
 | 1 | Invert Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Invert%20Binary%20Tree) | ✅ | [Submission Link](https://leetcode.com/problems/invert-binary-tree/submissions/2155070039) |
-| 2 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Maximum%20Depth%20of%20Binary%20Tree) | ✅ |  [Submission Link] |
+| 2 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Maximum%20Depth%20of%20Binary%20Tree) | ✅ |  [Submission Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2156229976) |
 | 3 | Diameter of Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Diameter%20of%20Binary%20Tree) | ⬜ | |
 | 4 | Balanced Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Balanced%20Binary%20Tree) | ⬜ | |
 | 5 | Same Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Same%20Tree) | ⬜ | |

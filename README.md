@@ -1,6 +1,6 @@
 # 100 Days of DSA
 
-150 problems, pattern by pattern. Progress bar below updates automatically from this file — just flip `✅` to `✅` in the Status column when you solve one, commit, and push.
+150 problems, pattern by pattern. Progress bar below updates automatically from this file — just flip `⬜` to `✅` in the Status column when you solve one, commit, and push.
 
 <!-- PROGRESS-START -->
 **Progress: 17 / 150 (11%)**

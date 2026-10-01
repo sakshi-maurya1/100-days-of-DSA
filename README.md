@@ -70,7 +70,7 @@
 ## Binary Search (8)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Binary Search | Easy | [Link](https://leetcode.com/problems/binary-search/description/?search=Binary%20Searchh) | ✅ | [Submission Link](https://leetcode.com/problems/binary-search/submissions/2153649530)|
+| 1 | Binary Search | Easy | [Link](https://leetcode.com/problems/binary-search/) | ✅ | [Submission Link](https://leetcode.com/problems/binary-search/submissions/2153649530)|
 | 2 | Search in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problemset/all/?search=Search%20in%20Rotated%20Sorted%20Array) | ⬜ | |
 | 3 | Find Minimum in Rotated Sorted Array | Medium | [Link](https://leetcode.com/problemset/all/?search=Find%20Minimum%20in%20Rotated%20Sorted%20Array) | ⬜ | |
 | 4 | Search a 2D Matrix | Medium | [Link](https://leetcode.com/problemset/all/?search=Search%20a%202D%20Matrix) | ⬜ | |
@@ -82,8 +82,8 @@
 ## Linked List (10)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/description/?search=Binary%20Search) | ✅ | [Submission Link](https://leetcode.com/problems/reverse-linked-list/submissions/2153771111)|
-| 2 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problemset/all/?search=Merge%20Two%20Sorted%20Lists) | ✅ | [Submission Link](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2153807433) |
+| 1 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | ✅ | [Submission Link](https://leetcode.com/problems/reverse-linked-list/submissions/2153771111)|
+| 2 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ | [Submission Link](https://leetcode.com/problems/merge-two-sorted-lists/submissions/2153807433) |
 | 3 | Reorder List | Medium | [Link](https://leetcode.com/problemset/all/?search=Reorder%20List) | ⬜ | |
 | 4 | Remove Nth Node From End of List | Medium | [Link](https://leetcode.com/problemset/all/?search=Remove%20Nth%20Node%20From%20End%20of%20List) | ⬜ | |
 | 5 | Copy List with Random Pointer | Medium | [Link](https://leetcode.com/problemset/all/?search=Copy%20List%20with%20Random%20Pointer) | ⬜ | |
@@ -96,9 +96,9 @@
 ## Trees (15)
 | # | Problem | Difficulty | LeetCode | Status | Notes |
 |---|---------|------------|----------|--------|-------|
-| 1 | Invert Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Invert%20Binary%20Tree) | ✅ | [Submission Link](https://leetcode.com/problems/invert-binary-tree/submissions/2155070039) |
-| 2 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Maximum%20Depth%20of%20Binary%20Tree) | ✅ |  [Submission Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2156229976) |
-| 3 | Diameter of Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Diameter%20of%20Binary%20Tree) | ⬜ | |
+| 1 | Invert Binary Tree | Easy | [Link](https://leetcode.com/problems/invert-binary-tree/) | ✅ | [Submission Link](https://leetcode.com/problems/invert-binary-tree/submissions/2155070039) |
+| 2 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ |  [Submission Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2156229976) |
+| 3 | Diameter of Binary Tree | Easy | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ |  [Submission Link](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2159090421) |
 | 4 | Balanced Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Balanced%20Binary%20Tree) | ⬜ | |
 | 5 | Same Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Same%20Tree) | ⬜ | |
 | 6 | Subtree of Another Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Subtree%20of%20Another%20Tree) | ⬜ | |

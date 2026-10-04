@@ -100,7 +100,7 @@
 | 2 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ |  [Submission Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2156229976) |
 | 3 | Diameter of Binary Tree | Easy | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ |  [Submission Link](https://leetcode.com/problems/diameter-of-binary-tree/submissions/2159090421) |
 | 4 | Balanced Binary Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Balanced%20Binary%20Tree) | ✅ |  [Submission Link](https://leetcode.com/problems/balanced-binary-tree/submissions/2160028748) |
-| 5 | Same Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Same%20Tree) | ⬜ | |
+| 5 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/?search=Same%20Tree) | ✅ |  [Submission Link](https://leetcode.com/problems/same-tree/submissions/2161734981) |
 | 6 | Subtree of Another Tree | Easy | [Link](https://leetcode.com/problemset/all/?search=Subtree%20of%20Another%20Tree) | ⬜ | |
 | 7 | Lowest Common Ancestor of a BST | Medium | [Link](https://leetcode.com/problemset/all/?search=Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | ⬜ | |
 | 8 | Binary Tree Level Order Traversal | Medium | [Link](https://leetcode.com/problemset/all/?search=Binary%20Tree%20Level%20Order%20Traversal) | ⬜ | |
